@@ -2,6 +2,6 @@ package com.wj;
 
 public class GitTest {
     public static void main(String[] args) {
-        System.out.println("wefwe");
+        System.out.println("hello git1");
     }
 }
